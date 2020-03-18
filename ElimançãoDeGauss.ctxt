@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=a11\ a12\ a13\ a21\ a22\ a23\ a31\ a32\ a33\ b1\ b2\ b3
+comment0.target=Eliman\u00E7\u00E3oDeGauss(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=void\ mostrar()
+comment2.params=
+comment2.target=void\ eliminacaoDeGauss()
+comment3.params=
+comment3.target=void\ eliminacaoDeGauss2()
+comment4.params=
+comment4.target=void\ calcuarTriangulo()
+comment5.params=
+comment5.target=void\ calcuarTrianguloU()
+comment6.params=
+comment6.target=void\ eliminacaoDeGaussL()
+comment7.params=
+comment7.target=void\ Multiplicacao()
+comment8.params=
+comment8.target=void\ gaussJacobi()
+numComments=9

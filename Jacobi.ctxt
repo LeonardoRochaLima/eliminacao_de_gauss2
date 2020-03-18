@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=matrix
+comment0.target=Jacobi(double[][])
+comment1.params=
+comment1.target=void\ print()
+comment2.params=r\ V\ R
+comment2.target=boolean\ transformToDominant(int,\ boolean[],\ int[])
+comment3.params=
+comment3.target=boolean\ makeDominant()
+comment3.text=\r\n\ Returns\ true\ if\ is\ possible\ to\ transform\ M(data\ member)\ to\ a\ diagonally\r\n\ dominant\ matrix,\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=void\ solve()
+comment4.text=\r\n\ Applies\ Jacobi\ method\ to\ find\ the\ solution\ of\ the\ system\r\n\ of\ linear\ equations\ represented\ in\ matrix\ M.\r\n\ M\ is\ a\ matrix\ with\ the\ following\ form\:\r\n\ a_11\ *\ x_1\ +\ a_12\ *\ x_2\ +\ ...\ +\ a_1n\ *\ x_n\ \=\ b_1\r\n\ a_21\ *\ x_1\ +\ a_22\ *\ x_2\ +\ ...\ +\ a_2n\ *\ x_n\ \=\ b_2\r\n\ .\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .\ \ \ \ \ \ \ \ .\r\n\ .\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .\ \ \ \ \ \ \ \ .\r\n\ .\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ .\ \ \ \ \ \ \ \ .\r\n\ a_n1\ *\ x_n\ +\ a_n2\ *\ x_2\ +\ ...\ +\ a_nn\ *\ x_n\ \=\ b_n\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
